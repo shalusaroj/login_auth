@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782639397395",
+    "project_id": "goog-login-183b8",
+    "storage_bucket": "goog-login-183b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782639397395:android:4f9d99f15e14e4cf119de6",
+        "android_client_info": {
+          "package_name": "com.example.login_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4GSAkmqsrhVV74WDaHspDYCA_A3Yv-5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
